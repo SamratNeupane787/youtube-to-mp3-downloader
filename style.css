@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+a{
+    color: rgb(255, 255, 255);
+}
+body{
+    background: linear-gradient(to right,#D980FA,#12CBC4);
+}
+
+#logo{
+    color: #ffffff;
+}
+
+#url{
+    width: 300px;
+    height: 58px;
+    font-size: 24px;
+    margin-top: 18px;
+    opacity: 0.8;
+}
+
+#btn-1{
+    color: white;
+    width: 256px;
+    height: 52px;
+    font-size: larger;
+    opacity: 0.8;
+    background-color: #eb3b5a;
+    margin-top: 18px;
+    border-radius: 16px 0px 16px 0px;
+    box-shadow: #12CBC4;
+}
+
+
+
+#btn-1 a:visited {
+    color: pink;
+}
+
+#heads {
+    margin-top: 38px;
+    text-decoration: underline;
+}
+#points{
+    font-size: large;
+    margin-top: 28px;
+}
+
+#points li{
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+#btn-2{
+    display: none;
+    color: white;
+    width: 256px;
+    height: 52px;
+    font-size: larger;
+    opacity: 0.8;
+    background-color: #eb3b5a;
+    margin-top: 18px;
+    border-radius: 16px 0px 16px 0px;
+    box-shadow: #12CBC4;
+}
+
+#vid-i{
+    margin-top: 18px;
+    text-decoration: underline;
+}
+
+#main{
+    margin-top: 16px;
+    border: 3px solid black;
+}
+
+#info{
+    margin: 18px;
+    text-decoration: underline;
+}
